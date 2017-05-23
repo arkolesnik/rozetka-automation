@@ -1,0 +1,13 @@
+.settings/
+.classpath
+.project
+/test-output/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
