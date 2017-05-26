@@ -1,4 +1,4 @@
-package Helpers;
+package helpers;
 
 import org.openqa.selenium.WebDriver;
 import pageobjects.ProductDetailsPage;

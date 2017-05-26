@@ -1,6 +1,6 @@
 package step_definitions;
 
-import Helpers.ProductDetailsPageHelper;
+import helpers.ProductDetailsPageHelper;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
